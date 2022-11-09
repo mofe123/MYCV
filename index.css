@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+}
+.head h2{
+    text-align: center;
+}
+.head h2 span{
+   
+    color: skyblue;
+}
+.head p {
+    text-align: center;
+    color: aliceblue;
+}
